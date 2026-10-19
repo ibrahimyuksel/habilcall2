@@ -1,0 +1,10 @@
+{
+  "description": "Interactive demo simulates a dual-phone call and SMS gateway interface with realistic delays and controls for showcasing remote phone management features.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
